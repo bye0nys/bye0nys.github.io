@@ -4,6 +4,33 @@
 
 @charset "utf-8";
 
+//font_overwrite
+$sans-serif: 'RIDIBatang';
+$monospace: 'RIDIBatang';
+
 //@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes/skins/air"; // skin
+@import "minimal-mistakes/skins/air";
 @import "minimal-mistakes"; // main partials
+
+@font-face {
+    font-family: 'RIDIBatang';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/RIDIBatang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html {
+    font-size: 14px; // change to whatever
+    
+    @include breakpoint($medium) {
+      font-size: 14px; // change to whatever
+    }
+  
+    @include breakpoint($large) {
+      font-size: 15px; // change to whatever
+    }
+  
+    @include breakpoint($x-large) {
+      font-size: 17px; // change to whatever
+    }
+}
