@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
 
 date: 2021-07-02
-last_modified_at: 2021-07-04
+last_modified_at: 2021-07-05
 ---
 
 # 1. __21.07.02__, 블로그를 처음으로 만들었다
