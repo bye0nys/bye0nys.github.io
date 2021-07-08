@@ -1,5 +1,5 @@
 ---
-title: "About"
+# title: "About"
 permalink: /about/
 layout: single
 
@@ -8,10 +8,9 @@ toc: true
 toc_sticky: true
 
 date: 2021-07-08 15:00 +0900
-last_modified_at: 2021-07-08 15:02 +0900
+last_modified_at: 2021-07-08 15:06 +0900
 
 ---
-
 # 1. Introduce
 
 __Java__ , __Python__ 등의 언어를 사용하며 알고리즘을 개발한 경험이 있고, __Matlab__ , __Tensorflow__ 등을 활용해 성능을 개선해 본 경험이 있습니다. 비록 오픈 소스로 소프트웨어를 배포해 본 경험은 없지만, 필요한 알고리즘을 그때그때 구현해낼 수 있는 개발자가 되기 위해 노력하는 중입니다.<br/><br/>
