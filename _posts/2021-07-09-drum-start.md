@@ -8,14 +8,13 @@ tags:
    - projects
    - python
    - FFT
-   - 
 
 comments: true
 toc: true
 toc_sticky: true
 
 date: 2021-07-09 16:38 +0900
-last_modified_at: 2021-07-09 16:38 +0900
+last_modified_at: 2021-07-09 16:43 +0900
 ---
 
 # 드럼 악보 채보 프로젝트
