@@ -62,20 +62,20 @@ __"야, 너도 드럼 칠 수 있어"__ 프로젝트에 관련된 설명 글입�
 # 2. 개발 진행 순서
 다음과 같이 크게 __네 번__ 의 단계를 거쳤다.
 
-## 1. [__소스 파일 입력__](https://github.com/bye0nys/drum-1)
+## 1. [__소스 파일 입력__](https://bye0nys.github.io/projects/drum-1)
    - 파일 입력
    - 음원의 샘플링레이트, 진폭 계산<br/><br/>
 
-## 2. [__처리 과정 사전 정의__](https://github.com/bye0nys/drum-2)
+## 2. [__처리 과정 사전 정의__](https://bye0nys.github.io/projects/drum-2)
    - Sliding Window, FFT 구간 지정
    - 잡음 제거
    - 리듬의 유지 시간(bpm측정) 설정<br/><br/>
 
-## 3. [__FFT 과정__](https://github.com/bye0nys/drum-3)
+## 3. [__FFT 과정__](https://bye0nys.github.io/projects/drum-3)
    - FFT 과정 수행
    - 계산된 주파수 값에 따라 악기 분류<br/><br/>
 
-## 4. [__결과 계산 및 출력__](https://github.com/bye0nys/drum-4)
+## 4. [__결과 계산 및 출력__](https://bye0nys.github.io/projects/drum-4)
    - 분류된 악기에 따라 결과 출력<br/><br/>
 
 각 과정에 __링크__ 를 삽입했고, 링크를 클릭하면 바로 이동할 수 있습니다.<br/><br/>
