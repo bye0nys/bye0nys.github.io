@@ -14,7 +14,7 @@ toc: true
 toc_sticky: true
 
 date: 2021-07-09 16:38 +0900
-last_modified_at: 2021-07-09 18:43 +0900
+last_modified_at: 2021-07-10 16:40 +0900
 ---
 
 # 드럼 악보 채보 프로젝트
@@ -78,21 +78,21 @@ last_modified_at: 2021-07-09 18:43 +0900
 # 2. 개발 진행 순서
 다음과 같이 크게 __네 번__ 의 단계를 거쳤다.
 
-## 1. [__드럼 비트 샘플 파일 입력__](https://bye0nys.github.io/projects/drum-1)
+## 1. [__드럼 비트 샘플 파일 입력__](/projects/drum-1)
    - 드럼 비트 샘플 파일 __(.wav)__ 입력
    - 각 샘플의 __샘플링레이트__ 와 __진폭__ 계산<br/><br/>
 
-## 2. [__처리 과정 구현__](https://bye0nys.github.io/projects/drum-2)
+## 2. [__처리 과정 구현__](/projects/drum-2)
    - __Sliding Window, FFT__ 구간 지정
    - 특정 진폭 이상의 __잡음 제거__
    - 리듬의 유지 시간(__bpm__ 측정) 측정 과정 구현<br/><br/>
 
-## 3. [__FFT 과정__](https://bye0nys.github.io/projects/drum-3)
+## 3. [__FFT 과정__](/projects/drum-3)
    - 각 샘플에 __FFT__ 수행
    - FFT를 통해 계산된 주파수 값에 따라 __악기 분류__
    - __Kick, Snare, Tom, Ride, Crash, Hi-Hat__ 의 __여섯 가지__ 로 분류<br/><br/>
 
-## 4. [__결과 계산 및 출력__](https://bye0nys.github.io/projects/drum-4)
+## 4. [__결과 계산 및 출력__](/projects/drum-4)
    - 위의 여섯 가지로 분류된 악기에 따라 __결과__ 출력
    - 동시에 __세 가지의 악기가 연주되는 것__ 을 출력하는 과정 까지 구현<br/><br/>
 
