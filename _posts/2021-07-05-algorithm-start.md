@@ -22,7 +22,7 @@ BOJ PS를 할 겸 PS 카테고리를 생성했다.<br/>
 [1654 : 랜선 자르기](https://www.acmicpc.net/problem/1654)  
 [1946 : 신입 사원](https://www.acmicpc.net/problem/1946)  
 [2941 : 크로아티아 알파벳](https://www.acmicpc.net/problem/2941)  
-[2981 : 검문](https://www.acmicpc.net/problem/2981)  
+[~~2981 : 검문~~](https://www.acmicpc.net/problem/2981)  
 [11051 : 이항 계수 2](https://www.acmicpc.net/problem/11051)  
 [11444 : 피보나치 수 6](https://www.acmicpc.net/problem/11444)  
 [18870 : 좌표 압축](https://www.acmicpc.net/problem/18870)  
