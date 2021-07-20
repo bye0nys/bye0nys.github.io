@@ -7,7 +7,7 @@ categories:
 tags:
    - study
    - HTML
-   - Front
+   - Frontend
 
 comments: true
 toc: true
