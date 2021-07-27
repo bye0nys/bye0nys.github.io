@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 
 date: 2021-07-08 15:00 +0900
-last_modified_at: 2021-07-08 15:06 +0900
+last_modified_at: 2021-07-27 21:47 +0900
 
 ---
 # 1. Introduce
@@ -24,16 +24,21 @@ __Java__ , __Python__ 등의 언어를 사용하며 알고리즘을 개발한 �
  - C
  - Java
  - Python
+ - Node.js
 
-## 2. Signal Processing
+## 2. Front-end
+  - HTML
+  - CSS
+  - JavaScript
+
+## 3. Signal Processing
  - MATLAB
  - Tensorflow
- - Numpy
 
-## 3. ETC
+## 4. ETC
  - Git / Github
  - Android
- - Markdown
+ - TypeScript
 <br/><br/>
 
 # 3. Projects
