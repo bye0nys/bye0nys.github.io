@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 
 date: 2021-07-08 15:00 +0900
-last_modified_at: 2022-03-01 15:59 +0900
+last_modified_at: 2022-04-25 12:20 +0900
 
 ---
 # 1. Introduce
@@ -58,24 +58,27 @@ last_modified_at: 2022-03-01 15:59 +0900
 ## 1. "야, 너도 드럼 칠 수 있어". - "어나더레벨" 조 (한국해양대학교)
 
 입력된 음성 소스를 FFT를 통해 주파수 분석, 악보를 출력하는 SW 개발 [(Source)](https://github.com/bye0nys/drum-final)
- - FFT와 Sliding Window 기법을 융합, 처리 속도 최적화
- - 드럼 연주를 시각화, 가시성 향상에 기여
- - Numpy, Sci-Py를 신호 처리 최적화
+ - FFT, Sliding Window 기법 융합, 처리 속도 최적화 로직 개발
+ - 드럼 연주를 시각화, 가시성 향상에 기여 (LilyPond 등)
+ - Numpy, Sci-Py를 활용한 신호 처리 최적화
 
 ## 2. "Wi-Fi FTM를 활용한 실내 위치 측위" - "테라헤르츠" 조 (한국해양대학교)
 
 Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정하는 알고리즘 개발 [(Source)](https://github.com/bye0nys/WiFi-ML)
- - 오픈 소스 애플리케이션을 수정, 구현한 기능들을 추가
+ - IMU 센서 (자이로스코프, 지자계, 가속도), Wi-Fi FTM 프로토콜 활용 3차원 좌표 추정 애플리케이션 개발 (배포 X)
  - 선형 회귀, 가우스-뉴턴법 구현, 평균 오차율을 3.6m -> 1.1m 수준으로 감소
  - PDR 측위를 융합, 최종 오차율을 0.6m 수준으로 감소
 <br/><br/>
 
 ## 3. "EnSound Lite API 개발 프로젝트" - "다니엘프로젝트"
 
-음악 교육 플랫폼 "인사운드 라이트" RESTful API 개발, Serverless 호스팅 구현
- - AWS CloudWatch, Slack API, TDD (Unit Test) 도입, HTTP 499, 500 에러 대처 로직 설계/구현
- - AWS ELB, Blue-Green 배포 도입, 무중단 배포 구현
- - AWS Autoscaling, nginx 튜닝을 통해 서버 유지비를 월별 기존 $50 -> 현 $15 수준으로 절감 (트래픽 절감)
+음악 교육 플랫폼 "인사운드 라이트" RESTful API 개발, Serverless 호스팅 구현 [인사운드 라이트 API(비공개)](https://lite.ensound.net/)
+ - DB 모델링, ERD 설계, DB 마이그레이션 (MySQL -> MySQL) 진행
+ - AWS (EC2, RDS, S3), Docker (Compose), nginx 도입, 서버 호스팅 설계/구현
+ - Celery, AWS ElastiCache, AmazonMQ 도입, 비동기 작업 처리, 캐시 백엔드 구현
+ - OpenAPI (Swagger) 도입 후 API 문서화, JWT, OAuth2 도입 후 인증/미들웨어 설계/구현
+ - AWS CloudWatch, TDD (Unit Test) 도입, HTTP 499, 50x 에러 대응 로직 설계/구현
+ - CI/CD (Jenkins, Github Webhook), Slack API 도입, 에러 모니터링 채널 구현
 
 <br/><br/>
 
