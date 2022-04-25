@@ -15,7 +15,7 @@ last_modified_at: 2022-03-01 15:59 +0900
 
 한국해양대학교 전기전자공학부에서 전자통신공학을 전공한 대한민국 표준형 공돌이입니다 (아쉽게도 남녀공학 중/고등학교 졸업).<br/><br/>
 학부생 시절엔 __Java__ , __Python__ 등의 언어를 사용하며 꾸준히 알고리즘을 개발해 왔고, 2회의 논문, 3회의 경진대회 출전 후 3회의 수상 경험이 있습니다.<br/><br/>
-뒤이어, 졸업 후 __Backend__ 와 __DB__, __DevOps__ 의 넓은 분야에 흥미를 갖고 계속해서 공부를 이어나가는 (오늘 2022년 3월 1일 기준)경력 8개월 차 Backend Junior 개발자입니다!<br/><br/>
+뒤이어, 졸업 후 __Backend__ 와 __DB__, __DevOps__ 의 넓은 분야에 흥미를 갖고 계속해서 공부를 이어나가는 경력 ~1년 차 Backend Junior 개발자입니다!<br/><br/>
 현재 다니엘 프로젝트 플랫폼팀에서 __Django Rest Framework__ 를 활용해 플랫폼 개발, 관리, 통합을 진행하고 있고, 지속적인 성능 향상을 위해 매일 코드 리뷰를 진행하며 nginx 튜닝, db 트렌젝션을 도입하고 있습니다.<br/><br/>
 2022년 3월을 기준으로 AWS SA, SQLD 자격증을 공부 중이며, 취득 후 서버/DB 분야의 전문가, 더 나아가 Full-Stack의 목표를 갖고 바쁘게 살아가고 있습니다.
 <br/><br/>
@@ -24,12 +24,11 @@ last_modified_at: 2022-03-01 15:59 +0900
 
 ## 1. Back-end
  - Python, Java
- - Django, DRF (RESTful API)
+ - Django, Django Rest Framework
  - Celery, RabbitMQ, Redis
- - Gunicorn
 
 ## 2. Web Server / Hosting / OS
- - nginx
+ - nginx, Gunicorn
  - Docker, compose
  - AWS (EC2, ELB, Route53, RDS, S3, ElastiCache, AmazonMQ)
  - Ubuntu 16.04, CentOS 7
@@ -51,8 +50,6 @@ last_modified_at: 2022-03-01 15:59 +0900
 ## 6. ETC
  - Git, Github
  - OpenAPI (Swagger, redoc)
- - SMTP, SSL(HTTPS), SSH
- - AES128/CBC/PKCS7, Argon2, JWT, OAuth
 
 <br/><br/>
 
@@ -116,9 +113,11 @@ Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정
 ## 2019.09 ~ 2020.06
  - "Wi-Fi FTM를 활용한 실내 위치 측위" 프로젝트
 ### 2020.07 __우수논문발표상__
-2020 ICT 대학생 논문 경진대회, (사)대한임베디드공학회
+ - 2020 ICT 대학생 논문 경진대회, (사)대한임베디드공학회
 ### 2020.11 __장려상__
-2020년도 하계종합학술발표회 학부 논문경진대회, 한국통신학회
+ - 2020년도 하계종합학술발표회 학부 논문경진대회, 한국통신학회
+ - 박지훈, 이세진, 강주리 외 4명(2020), [*Wi-Fi FTM과 스마트폰 IMU 센서를 활용한 실내 측위 연구*](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10499055), 한국통신학회, 한국통신학회 학술대회논문집, 1329 - 1330 (2 페이지)
+<br/>
 
 <br/>
 
