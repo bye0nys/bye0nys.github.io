@@ -1,5 +1,5 @@
 ---
-title: "2022.03.01 블로그 다시 시작...."
+title: "(Django ORM) 이미 생성되어져 있는 모델에서 UUID 새롭게 추가하기"
 
 categories:
    - study
