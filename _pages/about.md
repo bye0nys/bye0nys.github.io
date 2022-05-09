@@ -72,7 +72,7 @@ Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정
 
 ## 3. "EnSound Lite API 개발 프로젝트" - "다니엘프로젝트"
 
-음악 교육 플랫폼 "인사운드 라이트" RESTful API 개발, Serverless 호스팅 구현 [인사운드 라이트 API(비공개)](https://lite.ensound.net/)
+음악 교육 플랫폼 "인사운드 라이트" RESTful API 개발, Serverless 호스팅 구현 [인사운드 라이트 API(비공개)]()
  - DB 모델링, ERD 설계, DB 마이그레이션 (MySQL -> MySQL) 진행
  - AWS (EC2, RDS, S3), Docker (Compose), nginx 도입, 서버 호스팅 설계/구현
  - Celery, AWS ElastiCache, AmazonMQ 도입, 비동기 작업 처리, 캐시 백엔드 구현
