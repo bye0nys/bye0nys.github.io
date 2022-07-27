@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 
 date: 2021-07-08 15:00 +0900
-last_modified_at: 2022-07-27 18:06 +0900
+last_modified_at: 2022-07-27 18:23 +0900
 
 ---
 # 1. Introduce
@@ -16,11 +16,11 @@ last_modified_at: 2022-07-27 18:06 +0900
 한국해양대학교 전기전자공학부에서 전자통신공학을 전공한 대한민국 표준형 공돌이입니다 (아쉽게도 남녀공학 중/고등학교 졸업).<br/><br/>
 학부생 시절엔 __Java__ , __Python__ 등의 언어를 사용하며 꾸준히 알고리즘을 개발해 왔고, 2회의 논문, 3회의 경진대회 출전 후 3회의 수상 경험이 있습니다.<br/><br/>
 뒤이어, 졸업 후 __Backend__ 와 __DevOps__ 분야에 흥미를 갖고 매일매일 배우는 중인 경력 1년 차 주니어 백엔드 개발자입니다!<br/><br/>
-현재 다니엘 프로젝트 플랫폼팀에서 백엔드 개발자로 근무하며 __Django Rest Framework__ 를 활용해 사내 플랫폼 개발, 관리, 통합을 진행하고 있고, 지속적인 성능 향상을 위해 매일 코드 리뷰를 진행하며 1일 1커밋을 지키며 살아가고 있습니다.<br/><br/>
+현재 다니엘 프로젝트 플랫폼팀에서 백엔드 개발자로 근무하며 __Django Rest Framework__ 를 활용해 새로운 플랫폼의 개발, 호스팅 업무를 진행하고 있고, 지속적인 성능 향상을 위해 주말을 제외하고는 매일 코드 리뷰, 1일 1커밋을 지키며 살아가고 있습니다.<br/><br/>
 2022년 7월을 기준으로 AWS S3와 Github Actions를 통한 CI/CD Pipeline 구현, kali linux를 활용한 모의해킹, k8s 도입을 진행하며 Server/DevOps Engineer로의 꿈을 이루기 위해 노력중입니다!
 <br/><br/>
 
-# 2. Interests
+# 2. Interests / Skills
 
 ## 1. Back-end
  - Python, Java
@@ -29,13 +29,12 @@ last_modified_at: 2022-07-27 18:06 +0900
 
 ## 2. Web Server / Hosting / OS
  - nginx, Gunicorn
- - Docker, compose
+ - Docker
  - AWS (VPC, EC2, ELB, RDS, S3, ElastiCache, AmazonMQ)
  - Ubuntu 16.04, Kali-Linux, RHEL
 
 ## 3. DB
  - MySQL
- - Redis
 
 ## 4. Dev-Ops, CI/CD
  - AWS (Lambda, CloudWatch, API Gateway)
@@ -79,10 +78,10 @@ Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정
  - 사용 언어 : Python(Django), MySQL
  - DB 모델링, ERD 설계, SQL 쿼리(Native Query, ORM) 튜닝 진행
  - AWS (EC2, RDS, S3), Docker (Compose), nginx 도입, 서버 호스팅 구조 설계/구현
- - Celery, AWS ElastiCache, AmazonMQ(RabbitMQ) 도입, 비동기, 캐시 백엔드 구현
- - AWS (VPC/subnet) 설계/구현, NAT, Bastion Instance 도입
- - OpenAPI (Swagger) 도입/API 문서화, JWT, OAuth2 도입 후 인증/미들웨어 설계/구현
- - PG 연동 / 송신 메일서버 (AWS SES), Custom Throttling 설계/구현
+ - Celery, AWS ElastiCache, AmazonMQ (RabbitMQ) 도입, 비동기, 캐시 백엔드 구현
+ - AWS (VPC/subnet) 설계/구현, NAT, Bastion Instance 구축
+ - OpenAPI (Swagger) 도입/API 문서화, JWT, OAuth2 도입, 인증/미들웨어 설계/구현
+ - PG / 암호화 본인인증 연동 / 송신 메일서버 (AWS SES), Custom Throttling 설계/구현
  - CI/CD (Github Webhook, Actions), Slack API 도입, 에러/로깅 채널 구현
 
 <br/><br/>
