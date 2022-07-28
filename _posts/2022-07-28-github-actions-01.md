@@ -110,23 +110,23 @@ workflow가 성공했을 경우, 실패했을 경우, 스킵되었을 경우를 
 
 1. workflow가 성공했을 경우
 
-[image4](https://drive.google.com/uc?id=1F7nv_16uHKl1mHNIYCyZHqIBTa1Cj6IX)
+![image4](https://drive.google.com/uc?id=1F7nv_16uHKl1mHNIYCyZHqIBTa1Cj6IX)
 
 2. workflow가 실패했을 경우
 
-[image5](https://drive.google.com/uc?id=1FN-OX6t2LFQOPDkAoeZ-vy3ZMnsu1k2H)
+![image5](https://drive.google.com/uc?id=1FN-OX6t2LFQOPDkAoeZ-vy3ZMnsu1k2H)
 
 3. workflow가 스킵되었을 경우
 
-[image6](https://drive.google.com/uc?id=1F5DYZ9WohmXQU2GeYuzZSoz9nXdmDJZv)
+![image6](https://drive.google.com/uc?id=1F5DYZ9WohmXQU2GeYuzZSoz9nXdmDJZv)
 
 <br>
 
 3에서 언급했다시피 위의 경우는 always(), success(), failure() 등으로 잡을 수 있는데, 이를 활용해 다양한 과정을 정의할 수 있다.<br>
 
 # 5. __결론__
-나의 경우엔 [build] 명령어가 포함되면 build를 진행하고, docker container들이 성공적으로 띄워지면 slack post를 보내는 등의 내용을 정의해서 사용하는 중이다.<br>
-또한 위의 경우엔 cd, git pull 등의 명령어를 직접 입력했지만, alias를 활용하거나 sh 파일에 정의해 실행하는 등 상당히 다양한 커스터마이징이 가능하다.<br>
+나의 경우엔 [build] 명령어가 포함되면 build를 진행하고, docker container들이 성공적으로 띄워지면 slack post를 보내는 등의 내용을 정의해서 사용하는 중이다.<br><br>
+또한 위의 경우엔 cd, git pull 등의 명령어를 직접 입력했지만, alias를 활용하거나 sh 파일에 정의해 실행하는 등 상당히 다양한 커스터마이징이 가능하다.<br><br>
 덧붙여 테스트 코드를 실행하는 과정까지 추가한다면, Jenkins 등의 툴 없이도 소규모 서버에서의 CI/CD는 충분히 가능할 정도라고 생각된다(개인 생각).
 <br><br>
 이처럼 Github Actions를 잘 활용하면 CI 과정이 상당히 편해질 수 있고, 각자의 입맛에 맞게 정의할 수 있다. 다들 편하게 할 수 있는 부분은 편하게 할 수 있는 개발자가 되길 바라며..
