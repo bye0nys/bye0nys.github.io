@@ -114,11 +114,11 @@ workflow가 성공했을 경우, 실패했을 경우, 스킵되었을 경우를 
 
 2. workflow가 실패했을 경우
 
-![image5](https://drive.google.com/uc?id=1FN-OX6t2LFQOPDkAoeZ-vy3ZMnsu1k2H)
+![image5](https://drive.google.com/uc?id=1F5DYZ9WohmXQU2GeYuzZSoz9nXdmDJZv)
 
 3. workflow가 스킵되었을 경우
 
-![image6](https://drive.google.com/uc?id=1F5DYZ9WohmXQU2GeYuzZSoz9nXdmDJZv)
+![image6](https://drive.google.com/uc?id=1FN-OX6t2LFQOPDkAoeZ-vy3ZMnsu1k2H)
 
 <br>
 
