@@ -8,23 +8,19 @@ toc: true
 toc_sticky: true
 
 date: 2021-07-08 15:00 +0900
-last_modified_at: 2022-07-27 18:43 +0900
+last_modified_at: 2022-08-19 18:45 +0900
 
 ---
 # 1. Introduce
 
-한국해양대학교 전기전자공학부에서 전자통신공학을 전공한 대한민국 표준형 공돌이입니다 (아쉽게도 남녀공학 중/고등학교 졸업).<br/><br/>
+전기전자공학부/전자통신공학을 전공한 대한민국 표준형 공돌이입니다 (아쉽게도 남녀공학 중/고등학교 졸업).<br/><br/>
 
-학부생 시절엔 __Java__ , __Python__ 등의 언어를 사용하며 꾸준히 알고리즘을 개발해 왔고, 2회의 논문, 3회의 경진대회 출전 후 3회의 수상 경험이 있습니다.<br/>
-뒤이어, 졸업 후 __Backend__ 와 __DevOps__ 분야에 흥미를 갖고 매일매일 배우는 중인 경력 1년 차 주니어 백엔드 개발자입니다!<br/><br/>
+학부생땐 __Java__ , __Python__ 등의 언어를 사용하며 꾸준히 알고리즘을 개발해 왔고, 2회의 논문, 3회의 경진대회 출전 후 3회의 수상 경험이 있습니다.<br/>
+뒤이어, 졸업 후 __Backend__ 와 __DevOps__ 분야에 흥미를 갖고 매일매일 배우는 중인 2년 차 주니어 백엔드 개발자입니다!<br/><br/>
 
-현재 다니엘 프로젝트 플랫폼팀에서 백엔드 개발자로 근무하며 __Django Rest Framework__ 를 활용해 플랫폼 개발, 호스팅, DevOps 업무를 주로 진행하고 있고, 지속적인 성능 향상을 위해 주말을 제외하고는 매일 코드 리뷰, 1일 1커밋을 지키며 살아가고 있습니다.<br/><br/>
+다니엘프로젝트 플랫폼팀 Backend 개발자로 1년 동안 근무하며 __Django Rest Framework__ 를 활용해 API 개발, 호스팅, DevOps 업무를 주로 진행했고, 지속적인 성능 향상을 위해 주말을 제외하고는 매일 코드 리뷰, 1일 1커밋을 지키며 공부했습니다.<br/><br/>
 
-기존 플랫폼(PHP/WordPress)에 대한 트러블 슈팅 / 레거시 코드 수정 배포를 진행해 본 경험이 있고, 현재는 개발 서버를 분리하며 통합 과정에서 일어날 수 있는 성능/보안 문제점들을 점검하는 업무를 더불어 진행하고 있습니다.<br/>
-백엔드 개발을 홀로, 독학하며 진행하다 보니 스스로 개발한 부분도 많지만 그만큼 클린 코드에 대한 갈증을 느껴, Sonarlint 등의 Linter, 혹은 디자인 패턴 도입 등 이를 향한 여러가지 방법들을 공부하고 있습니다.<br/><br/>
-
-2022년 7월을 기준으로 AWS S3와 Github Actions를 통한 __CI/CD Pipeline__ 구현, __kali linux를 활용한 모의해킹__, __k8s__ 도입을 진행하며 __Server/DevOps Engineer__ 로의 꿈을 이루기 위해 노력중입니다!<br/>
-+Python 의 한계를 깨닫고 Java Spring 에 대한 스터디를 진행중입니다..
+2022년 8월을 기준으로 AWS S3와 Github Actions를 통한 __CI/CD Pipeline__ 구현, __kali linux를 활용한 모의해킹__, __k8s__ 도입을 진행했으며, 퇴사 이후 현재는 __Apollo/GraphQL, Kotlin Spring__ 을 공부하며 도입하기 위해 Toy Project를 기획하고 있습니다.
 <br/><br/>
 
 # 2. Interests / Skills
@@ -62,7 +58,7 @@ last_modified_at: 2022-07-27 18:43 +0900
 
 # 3. Projects
 
-## 1. "야, 너도 드럼 칠 수 있어". - "어나더레벨" 조 (한국해양대학교)
+## 1. "야, 너도 드럼 칠 수 있어". - "어나더레벨" 조 (한국해양대학교) / 2019.06 ~ 2019.09
 
 입력된 음성 소스를 FFT를 통해 주파수 분석, 악보를 출력하는 SW 개발 [(Source)](https://github.com/bye0nys/drum-final)
  - 사용 언어 : Python
@@ -70,7 +66,7 @@ last_modified_at: 2022-07-27 18:43 +0900
  - 드럼 연주를 시각화, 가시성 향상에 기여 (LilyPond 등)
  - Numpy, Sci-Py를 활용한 신호 처리 최적화
 
-## 2. "Wi-Fi FTM를 활용한 실내 위치 측위" - "테라헤르츠" 조 (한국해양대학교)
+## 2. "Wi-Fi FTM를 활용한 실내 위치 측위" - "테라헤르츠" 조 (한국해양대학교) / 2019.09 ~ 2020.06
 
 Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정하는 알고리즘 개발 [(Source)](https://github.com/bye0nys/WiFi-ML)
  - 사용 언어 : Java(Android Studio), Python, Matlab
@@ -79,7 +75,7 @@ Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정
  - PDR 측위를 융합, 최종 오차율을 0.6m 수준으로 감소
 <br/><br/>
 
-## 3. "EnSound Lite API 개발 프로젝트" - "다니엘프로젝트"
+## 3. "EnSound Lite API 개발 프로젝트" - "다니엘프로젝트" / 2021.08 ~ 2022.08
 
 음악 교육 플랫폼 "인사운드 라이트" RESTful API 개발, PaaS(AWS) 호스팅 구현 [인사운드 라이트 API(비공개)]()
  - 사용 언어 : Python(Django), MySQL
@@ -88,7 +84,7 @@ Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정
  - Celery, AWS ElastiCache, AmazonMQ (RabbitMQ) 도입, 비동기, 캐시 백엔드 구현
  - AWS (VPC/subnet) 설계/구현, NAT, Bastion Instance 구축
  - OpenAPI (Swagger) 도입/API 문서화, JWT, OAuth2 도입, 인증/미들웨어 설계/구현
- - PG / 암호화 본인인증 연동 / 송신 메일서버 (AWS SES), Custom Throttling 설계/구현
+ - PG / 암호화(AES256/CBC/PKCS7) 연동 / 송신 메일서버 (AWS SES), Custom Throttling 설계/구현
  - CI/CD (Github Webhook, Actions), Slack API 도입, 에러/로깅 채널 구현
 
 <br/><br/>
@@ -97,7 +93,7 @@ Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정
 # 4. Career
 
 
-## 2021.08 ~
+## 2021.08 ~ 2022.08
 ### 다니엘 프로젝트 (서울특별시 서초구)
 - Backend 개발 __매니저__
 
