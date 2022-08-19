@@ -18,7 +18,7 @@ last_modified_at: 2022-08-19 18:45 +0900
 학부생땐 __Java__ , __Python__ 등의 언어를 사용하며 꾸준히 알고리즘을 개발해 왔고, 2회의 논문, 3회의 경진대회 출전 후 3회의 수상 경험이 있습니다.<br/>
 뒤이어, 졸업 후 __Backend__ 와 __DevOps__ 분야에 흥미를 갖고 매일매일 배우는 중인 2년 차 주니어 백엔드 개발자입니다!<br/><br/>
 
-다니엘프로젝트 플랫폼팀 Backend 개발자로 1년 동안 근무하며 __Django Rest Framework__ 를 활용해 API 개발, 호스팅, DevOps 업무를 주로 진행했고, 지속적인 성능 향상을 위해 주말을 제외하고는 매일 코드 리뷰, 1일 1커밋을 지키며 공부했습니다.<br/><br/>
+다니엘프로젝트 플랫폼팀 Backend 개발 매니저로 1년 동안 근무하며 __Django Rest Framework__ 를 활용해 API 개발, 호스팅, DevOps 업무를 주로 진행했고, 지속적인 성능 향상을 위해 주말을 제외하고는 매일 코드 리뷰, 1일 1커밋을 지키며 공부했습니다.<br/><br/>
 
 2022년 8월을 기준으로 AWS S3와 Github Actions를 통한 __CI/CD Pipeline__ 구현, __kali linux를 활용한 모의해킹__, __k8s__ 도입을 진행했으며, 퇴사 이후 현재는 __Apollo/GraphQL, Kotlin Spring__ 을 공부하며 도입하기 위해 Toy Project를 기획하고 있습니다.
 <br/><br/>
