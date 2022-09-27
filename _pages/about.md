@@ -20,14 +20,15 @@ last_modified_at: 2022-08-19 18:45 +0900
 
 다니엘프로젝트 플랫폼팀 Backend 개발 매니저로 1년 동안 근무하며 __Django Rest Framework__ 를 활용해 API 개발, 호스팅, DevOps 업무를 주로 진행했고, 지속적인 성능 향상을 위해 주말을 제외하고는 매일 코드 리뷰, 1일 1커밋을 지키며 공부했습니다.<br/><br/>
 
-2022년 8월을 기준으로 AWS S3와 Github Actions를 통한 __CI/CD Pipeline__ 구현, __kali linux를 활용한 모의해킹__, __k8s__ 도입을 진행했으며, 퇴사 이후 현재는 __Apollo/GraphQL, Kotlin Spring__ 을 공부하며 도입하기 위해 Toy Project를 기획하고 있습니다.
+현재는 __Golang__ 의 __Gin Framework__, __Ent__ ORM을 활용한 Backend API 개발 업무와 OpenAPI 작성을 주 업무로 진행하고 있습니다.
 <br/><br/>
 
 # 2. Interests / Skills
 
 ## 1. Back-end
- - Python, Java
- - Django, Django Rest Framework
+ - Java
+ - Python, Django, Django Rest Framework
+ - Go (Golang), Gin, Ent
  - Celery, RabbitMQ, Redis
 
 ## 2. Web Server / Hosting / OS
@@ -43,6 +44,7 @@ last_modified_at: 2022-08-19 18:45 +0900
  - AWS (Lambda, CloudWatch, API Gateway)
  - Slack
  - Github (Webhook, Actions)
+ - Jenkins, Argo CD
 
 ## 5. Front-end
  - HTML, CSS, JS
@@ -51,6 +53,7 @@ last_modified_at: 2022-08-19 18:45 +0900
 
 ## 6. ETC
  - Git, Github
+ - Jira, Bitbucket
  - OpenAPI (Swagger, redoc)
  - AWS (SES, WAF)
 
@@ -95,9 +98,13 @@ Wi-Fi FTM을 활용하여 실내 사용자의 위치를 3차원 좌표로 추정
 
 # 4. Career
 
+## 2022.09 ~
+### 주식회사 이자 (서울특별시 서초구)
+- Backend 개발자
+
 ## 2021.08 ~ 2022.08
 ### 다니엘 프로젝트 (서울특별시 서초구)
-- Backend 개발 __매니저__
+- Backend 개발 매니저
 
 <br/>
 
